@@ -1,6 +1,6 @@
 ---
 name: "sungemode-profile"
-description: "整理或更新目标、能力、资源与约束，建立可供不同 Agent 接手的个人 Markdown 档案。Use for a portable personal baseline before opportunity planning, or when circumstances change."
+description: "整理或更新人生或项目目标、能力、资源与生活约束，建立可供不同 Agent 接手的个人 Markdown 档案。Use for a portable personal baseline before life or opportunity planning, or when circumstances change."
 license: "MIT"
 ---
 
@@ -22,3 +22,6 @@ license: "MIT"
 
 跨 Agent 交接时明确当前目标、预算/时间边界、最近变化和需要接着确认的问题。用“现状支持哪些探索”收尾，不从个人资料直接断言市场需求成立。
 
+## 人生经营的背景
+
+用户要求全面建档时，另记录认知/选择中的困惑、学习方式、财务目标、健康习惯、关系责任、体验与作品意愿；只收集用户愿意提供且与目标有关的信息。健康或财务可用摘要/范围，空缺与暂不讨论分开。普通项目建档不必询问所有领域，七个方面不以商业回报统一评分。

@@ -1,6 +1,6 @@
 ---
 name: "sungemode-profile"
-description: "Create or update a portable Markdown profile of goals, capabilities, resources, and constraints before opportunity planning or when circumstances change. 孙哥模式个人档案与现状整理。"
+description: "Create or update a portable Markdown profile of goals, capabilities, resources, and constraints before life or opportunity planning or when circumstances change. 孙哥模式个人档案与现状整理。"
 license: "MIT"
 ---
 
@@ -22,3 +22,6 @@ When asked to save/update, write `.sungemode/profile.md` or the chosen path and 
 
 For handoff, state the active goal, time/budget caps, recent changes, and open questions. End with feasible exploration directions; personal context alone does not validate demand.
 
+## Context for life planning
+
+For a whole-life profile, also capture beliefs/choices, learning, financial goals, habits, relationship responsibilities, desired experiences, and works, only as relevant and willingly shared. Health/financial summaries or ranges suffice. Distinguish unknown from not discussed. A project-only profile need not ask about every domain, and revenue is not a universal life score.

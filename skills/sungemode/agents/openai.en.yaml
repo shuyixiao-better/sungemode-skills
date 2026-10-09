@@ -1,4 +1,4 @@
 interface:
-  display_name: "SungeMode"
-  short_description: "Map opportunities, test assumptions, and review results"
-  default_prompt: "Use $sungemode to Map opportunities from my context and plan a bounded seven-day test."
+  display_name: "SungeMode · Life Planning"
+  short_description: "Plan across seven life themes with evidence and shared budgets"
+  default_prompt: "Use $sungemode to review my seven life themes and choose feasible next actions within my time and budget."

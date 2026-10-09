@@ -4,7 +4,7 @@
 
 **Switch your AI into SungeMode.**
 
-Agent skills for personal context, opportunity scouting, action, and review.
+Seven interview-inspired themes for work, wealth, health, learning, choices, relationships, and creation.
 
 [中文（default）](README.md) · [English](README.en.md)
 
@@ -12,41 +12,88 @@ Agent skills for personal context, opportunity scouting, action, and review.
 ![Agent Skills](https://img.shields.io/badge/format-Agent%20Skills-2563eb)
 ![Language](https://img.shields.io/badge/language-中文%20%7C%20English-16a34a)
 
-**Understand you → Map opportunities → Test assumptions → Review results**
+**Review your context → Make tradeoffs → Act within limits → Update from feedback**
 
-Built by Owen
+Independently organized and developed by the creator; an unofficial project.
 
 </div>
 
-Turn a vague project idea into an evidence-based seven-day validation plan with time, budget, and stop conditions. Suitable for startups, side businesses, product exploration, and career choices. Portable Markdown records let another agent continue the work.
+Plan across beliefs, decisions, AI learning, business, wealth, health, and life experiences with evidence and shared time/spending limits. Use a whole-life baseline, a specific question, or a periodic review. Existing startup, side-business, and seven-day validation workflows remain available. Portable Markdown records let another agent continue.
 
-Independently developed by Owen, inspired by Alan Shao's public interview with Justin Sun. This is an unofficial project. Interview ideas, our product design, and market claims requiring verification are distinguished in [sources and methodology](docs/sources.en.md).
+Inspired by Alan Shao's public interview with Justin Sun. Interview ideas, our product design, and market claims requiring verification are distinguished in [sources and methodology](docs/sources.en.md).
+
+## Ideas behind the project
+
+SungeMode turns seven interview-inspired ideas into methods for personal choices, action, and review:
+
+- **Scout the map:** Understand options and critical unknowns before acting blindly.
+- **AI:** Expand information-processing capacity for organizing context, comparing paths, and learning.
+- **Independent judgment (“黄毛理论”):** Distinguish useful criticism from unhelpful social pressure, preserving judgments with evidence.
+- **Follow opportunities (“逐水草而居”):** Keep room to change direction as conditions change, accounting for stability and moving costs.
+- **Health management:** Protect the body and recovery so long-term action remains sustainable.
+- **Financial freedom:** Expand personal choice so time and everyday decisions can better reflect one's priorities.
+- **Experience:** Accept that the whole world cannot be understood in advance; learn about oneself and the world through experience and feedback.
+
+Apply these ideas to a whole-life baseline, career/project choices, learning, routines, financial goals, relationships, and creation. The skill translates them into concrete questions, affordable next steps, and review conditions; users need not master the terminology first.
 
 ## Try a prompt
 
 ```text
-Use SungeMode. I know Java and AI application development, have two hours
-per day and a CNY 300 budget this week, and can reach a few local shop owners.
-Compare feasible side-project directions. Give me a seven-day test with
-evidence, budget, and stop conditions. Label unverified market information.
-Please answer in English and save the records in .sungemode/.
+Use SungeMode for a whole-life baseline. I have five years of development
+experience, want to explore an AI side business and improve my learning,
+and want to preserve relationships and rest. After existing obligations,
+I have seven hours weekly and a CNY 200 trial budget. I do not want to quit.
+Cover all seven themes, keep gaps unknown, and ask at most three key questions.
+All actions must share those seven hours and CNY 200. Please answer in English.
 ```
 
-Expect a baseline, opportunity comparison, critical assumption, daily validation plan, continue/stop rules, and review handoff. Current market facts require the agent's available browsing tools. Without browsing, it can deliver a clearly provisional plan and verification checklist.
+Expect seven-theme context/gaps, cross-domain tradeoffs, priorities, combined time/cash, and review conditions. Financial and health summaries or ranges suffice; complete private data is not required. A specific question need not trigger a whole-life report.
 
-See the [English demo](examples/seven-day-plan.en.md) / [Chinese demo](examples/seven-day-plan.zh-CN.md). The scenario and numbers are fictional, illustrating the output rather than completed research or sales.
+See the [life baseline demo](examples/life-baseline.en.md), [Chinese equivalent](examples/life-baseline.zh-CN.md), or the existing [project validation demo](examples/seven-day-plan.en.md). These are fictional examples, not completed behavioral evaluations, research, or sales.
+
+## Seven themes and three planning entries
+
+| Theme | Application |
+|---|---|
+| Cognition | Old assumptions, criticism, path dependence, counterevidence |
+| Decisions | Career, location, project choices; scout before committing |
+| AI and knowledge | Portable context, learning, verification |
+| Business | Demand, global markets, digital IP, technology opportunities |
+| Wealth | Cash flow, goals, optionality, stability |
+| Health | Habits, records, sustainable observation and adjustment |
+| Experience | Relationships, experiences, works, rest |
+
+- **Whole-life baseline:** Assess all seven themes and choose current priorities.
+- **Specific question:** Compare a relocation, income, family, and routine tradeoff.
+- **Periodic review:** Update the next steps from actual records.
+
+Interview Q&A is also supported. The skill distinguishes personal accounts and universal facts, does not impersonate the guest, equate opposition with truth, or copy his Crypto allocation/health practices. Source notes and limitations are packaged with the main skill for offline reading.
+
+## How the methods change decisions
+
+| Situation | Method | Result |
+|---|---|---|
+| Persisting despite criticism | Independent judgment | Separate emotion, testable objections, responsibility conflicts; conditional persistence |
+| Fragmented learning/context | AI in practice | Minimal portable context and observable learning artifacts |
+| Changing environment | Follow opportunities | Compare switching conditions, costs, responsibilities, and stability |
+| Career/location/project commitment | Scout first | Investigate a ranking-changing unknown before the next commitment |
+| Good income but overload | Body maintenance | Inspect routine/recovery conflicts and reduce tasks rather than keep adding |
+| After a wealth milestone | Player mindset | Sample preferences, try a reversible side quest, reflect before deepening |
+| More money expected to fix life | Wealth as an amplifier | Locate money-sensitive parts and other necessary agreements/actions |
+
+Names correspond to questions, choices, and feedback. Users need not study the interview first; detailed methods ship with the skill and all seven themes remain covered.
 
 ## Five standalone skills
 
 | Skill | Job | Example request |
 |---|---|---|
-| [`sungemode`](skills/sungemode/SKILL.en.md) | Full context-to-action loop | “Help me decide what to do next” |
-| [`sungemode-profile`](skills/sungemode-profile/SKILL.en.md) | Goals, capabilities, resources, constraints | “Create a portable baseline” |
+| [`sungemode`](skills/sungemode/SKILL.en.md) | Seven-theme life planning plus existing project workflow | “Help me decide what to do next” |
+| [`sungemode-profile`](skills/sungemode-profile/SKILL.en.md) | Goals, capabilities, resources, life constraints | “Create a portable baseline” |
 | [`sungemode-scout`](skills/sungemode-scout/SKILL.en.md) | Customers, alternatives, channels, costs | “Map this project opportunity” |
 | [`sungemode-experiment`](skills/sungemode-experiment/SKILL.en.md) | Assumption, budget, metric, stop conditions | “Design a seven-day validation test” |
-| [`sungemode-review`](skills/sungemode-review/SKILL.en.md) | Compare observations with the plan | “Update the plan from this week's results” |
+| [`sungemode-review`](skills/sungemode-review/SKILL.en.md) | Review life or project observations against the plan | “Update the plan from this week's results” |
 
-Each skill works independently. `sungemode` contains the full workflow and does not require the other four; install only what you need to reduce overlapping discovery.
+Each skill works independently. `sungemode` contains all seven themes and the full project workflow and does not require the other four; install only what you need to reduce overlapping discovery.
 
 ## Install
 
@@ -95,17 +142,19 @@ Ask the agent to save records in `.sungemode/`. Consultation alone returns Markd
 .sungemode/
 ├── README.md
 ├── profile.md
+├── life.md
+├── reviews/2026-10-09.md
 └── projects/my-project/
     ├── opportunity.md
     ├── experiment.md
     └── reviews/2026-10-09.md
 ```
 
-In another tool, ask it to read the index and relevant records and continue the current experiment. Records belong in your working project, separate from installed skills. This repository ignores its own `.sungemode/`; configure your target project's ignore rules as needed for private records.
+In another tool, ask it to read the index and relevant records and continue the current plan. Whole-life and project reviews are stored separately; existing project records need no migration. Records belong in your working project, separate from installed skills. This repository ignores its own `.sungemode/`; configure your target project's ignore rules as needed for private records.
 
 ## Layout and validation
 
-Each `skills/<name>/` contains Chinese `SKILL.md`, English `SKILL.en.md`, bilingual Codex metadata, and output templates. The full entry also includes evidence references. Installation/check scripts live in `scripts/`, demos in `examples/`, behavioral scenarios in `evals/`, and installer tests in `tests/`.
+Each `skills/<name>/` contains Chinese `SKILL.md`, English `SKILL.en.md`, bilingual Codex metadata, and output templates. The full entry also includes evidence, source notes, and seven thematic references. Installation/check scripts live in `scripts/`, life and project demos in `examples/`, behavioral scenarios in `evals/`, and installer tests in `tests/`.
 
 ```bash
 python3 scripts/validate.py
@@ -113,5 +162,7 @@ python3 -m unittest discover -s tests -v
 ```
 
 Checks cover both entry languages, metadata, relative resources, language selection, repeat installs, and conflict protection. GitHub Actions defines macOS/Linux/Windows checks on Python 3.9/3.13; remote results depend on actual CI execution. Evaluate skill decisions using [the evaluation guide](evals/README.en.md); structural checks do not prove model performance.
+
+Evaluate practical benefit against direct prompting using the [paired evaluation protocol](evals/comparison.en.md) with matched models/scenarios. The paired comparison is not yet executed; demos and structural tests do not establish effectiveness.
 
 Contributions are welcome: see [the contribution guide](CONTRIBUTING.en.md). Code and original documentation use the [MIT License](LICENSE); interview and third-party content retain their owners' rights.

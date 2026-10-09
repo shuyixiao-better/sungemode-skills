@@ -2,7 +2,7 @@
 
 Updated: pending (user timezone)
 Current goal: pending
-Stage: profile / scout / experiment / review
+Stage: whole-life baseline / specific question / periodic review / project validation
 
 ## Record index
 
@@ -24,3 +24,6 @@ List only files that exist; turn these paths into relative Markdown links when c
 
 Read this index and profile, then the current opportunity and latest review. Confirm stale constraints, retain E/H IDs and history, and do not treat planned actions as observed results.
 
+## Life planning (when applicable)
+
+Track the seven-theme baseline in `life.md` and whole-life reviews in `reviews/YYYY-MM-DD.md`. Include links only after files exist. Retain project-specific paths, and check the shared time/spending cap before adding actions.
