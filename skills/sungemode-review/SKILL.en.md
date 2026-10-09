@@ -1,6 +1,6 @@
 ---
 name: "sungemode-review"
-description: "Review observed project or experiment results against original assumptions and preset thresholds; decide continue, adjust, stop, or gather evidence while preserving decision history. 孙哥模式持续复盘。"
+description: "Review observed life-plan, project, or experiment results against original assumptions and preset thresholds; decide continue, adjust, stop, or gather evidence while preserving decision history. 孙哥模式持续复盘。"
 license: "MIT"
 ---
 
@@ -9,6 +9,8 @@ license: "MIT"
 Default to English; honor explicit language preferences. Update judgments using observations. This skill stands alone.
 
 ## Method
+
+For life-plan reviews, apply the domain-specific rules in “Whole-life review” below; customer, payment and conversion fields apply only to business projects.
 
 1. Read the original goal, H assumptions, E evidence, experiment version, preset metric/thresholds, and time/spending caps. If the original plan is missing, say so; never invent success criteria that were supposedly set beforehand.
 2. Extract actual actions, contacts reached, qualified participants, key behaviors, payment/commitments, delivery time, and spend. Record observation date, source, and denominator. Separate did not happen from not recorded. Label user summaries self-reported; never fabricate transcripts or payment records.
@@ -23,3 +25,8 @@ Use [the review template](assets/review.en.md) to preserve plan, observations, d
 
 When asked to save/update, write `.sungemode/projects/<project-slug>/reviews/YYYY-MM-DD.md` or the chosen path. If that date's file exists, append a distinct entry, retaining history. Use the user's timezone. Update the opportunity judgment and existing index, preserve experiment thresholds, and version the next plan separately.
 
+## Whole-life review
+
+For learning, health, relationships, or life plans, read `.sungemode/life.md` or the supplied plan and apply the same plan/actual/change method. Payment/acquisition metrics belong only to business experiments. Use learning artifacts, habit feasibility/observations, and mutual consent/feedback for relationships; rest need not produce output. Missing original criteria require exploratory analysis, not invented conversion rates. Check combined time/cash and effects on recovery and obligations. Health logs do not establish causality or treatment effects.
+
+When asked to save, use `.sungemode/reviews/YYYY-MM-DD.md`, update relevant existing life/index fields, and retain old plans and same-day history. Keep existing project paths for project reviews.

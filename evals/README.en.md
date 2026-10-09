@@ -11,3 +11,4 @@ Passes need observable behavior. Use drafts and fictional data for scenarios men
 
 Check unknowns, executable actions, total budget, preset stop rules, review denominators/original thresholds, and preserved records. Make targeted instruction changes and rerun affected scenarios rather than accumulating broad prohibitions.
 
+New seven-theme cases cover missing context, shared caps, narrow relationship requests, criticism, wearable estimates, concentration, model consensus, life-review history, zero net outflow, and offline quotations. Materialize the files described in `life-review-preserves-history` in a temporary fixture directory before running it; inspect the resulting files/history. Maintainer-authored demos do not count as passed behavioral evaluations.

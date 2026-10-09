@@ -27,3 +27,6 @@ Set a primary metric and thresholds before the experiment. Keep denominators and
 
 Separate failure to execute, failed acquisition, lack of customer pain, and delivery failure. Small samples or absent controls warrant an insufficient-evidence conclusion, not market validation.
 
+## Evidence for life planning
+
+Distinguish health self-reports, device estimates and professional findings; short-term correlation does not establish treatment effects. Prefer authoritative public-health/medical sources for concrete guidance. Financial scenarios separate known cash and assumed income; date and localize rules/product facts. Assess learning through explanations/artifacts and relationships through attributed perspectives/mutual wishes, not market conversion rates. Thresholds remain proposals unless explicitly agreed; filling a template does not establish consent.

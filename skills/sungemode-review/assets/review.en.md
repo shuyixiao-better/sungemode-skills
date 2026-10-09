@@ -28,3 +28,10 @@ Remaining unknowns: pending
 Action, owner, metric, time/spending caps, check date: pending
 Opportunity updates and next experiment version: pending
 
+## For life plans
+
+Related themes and original preferences: pending
+Learning artifacts/habit observations/mutual feedback as applicable: pending
+Combined action time/cash: pending
+Effects on sleep, recovery, caregiving, commitments: pending
+Demand/acquisition/payment apply only to business projects; remove irrelevant fields.

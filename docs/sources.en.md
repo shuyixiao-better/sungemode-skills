@@ -15,3 +15,8 @@ The interview inspires a method; it does not establish demand, competitor pricin
 
 Independently built by Owen ([shuyixiao-better](https://github.com/shuyixiao-better)), with no affiliation or endorsement from the speakers or their companies. The repository does not redistribute the full transcript, video, or private interview records. MIT licensing covers our code and original documentation, not third-party content.
 
+## Seven-theme extension
+
+This version also uses the initiator-supplied four-hour interview knowledge base and machine subtitles, without line-by-line audio verification. Approximate ranges and limitations ship in [interview notes](../skills/sungemode/references/interview.en.md). Subtitle versions can differ; navigation ranges are not precise quotation evidence.
+
+Cognition, decisions, AI/knowledge, business, wealth, health, and experience/creation are editorial categories, not a formal seven-module theory proposed by the guest. Baseline/question/review entries, shared resource limits, priorities, and cross-domain reviews are project designs. Health, investment, research, payment, and historical claims require separate verification; personal stories do not establish general effects.
