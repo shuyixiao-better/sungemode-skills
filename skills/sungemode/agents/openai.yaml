@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙哥模式"
+  short_description: "结合你的现状探索机会，形成有证据、有预算、有停止条件的行动闭环"
+  default_prompt: "使用 $sungemode，结合我的现状开图，制定有证据、有预算和停止条件的七天验证计划。"

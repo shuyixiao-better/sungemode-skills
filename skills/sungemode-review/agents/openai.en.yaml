@@ -1,0 +1,4 @@
+interface:
+  display_name: "SungeMode · Review"
+  short_description: "Review observations and update the next action plan"
+  default_prompt: "Use $sungemode-review to Review my observed results and decide whether to continue, adjust, or stop."

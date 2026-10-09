@@ -1,0 +1,4 @@
+interface:
+  display_name: "SungeMode · Scout"
+  short_description: "Research customers, alternatives, and test priorities"
+  default_prompt: "Use $sungemode-scout to Map my project idea, comparing customers, alternatives, channels, and costs."

@@ -1,0 +1,14 @@
+.idea/
+.DS_Store
+__pycache__/
+*.py[cod]
+.sungemode/
+.agents/
+.claude/
+.qoder/
+.cursor/
+.github/skills/
+.gemini/
+.opencode/
+.sungemode-backups/
+

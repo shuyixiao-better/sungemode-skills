@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙哥模式 · 个人档案"
+  short_description: "整理目标、能力、资源与约束，建立可交给不同 Agent 接手的档案"
+  default_prompt: "使用 $sungemode-profile，整理我的目标、能力、时间、预算和约束，建立可移交的个人档案。"

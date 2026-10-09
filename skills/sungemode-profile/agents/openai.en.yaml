@@ -1,0 +1,4 @@
+interface:
+  display_name: "SungeMode · Profile"
+  short_description: "Capture goals, resources, capabilities, and constraints"
+  default_prompt: "Use $sungemode-profile to Create a portable profile of my goals, resources, and constraints."

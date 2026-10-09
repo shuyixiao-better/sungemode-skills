@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙哥模式 · 持续复盘"
+  short_description: "用实际反馈对照原假设和阈值，判断继续、调整、停止或需要补充证据"
+  default_prompt: "使用 $sungemode-review，根据我的实际结果复盘，决定继续、调整或停止，并记录判断变化。"

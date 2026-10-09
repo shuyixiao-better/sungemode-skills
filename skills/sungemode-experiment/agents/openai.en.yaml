@@ -1,0 +1,4 @@
+interface:
+  display_name: "SungeMode · Experiment"
+  short_description: "Design a bounded test with metrics and stop conditions"
+  default_prompt: "Use $sungemode-experiment to Design a seven-day test of my critical assumption with metrics and stop rules."

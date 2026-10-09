@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙哥模式 · 机会开图"
+  short_description: "研究客户、痛点、替代方案与交付成本，选择下一步值得验证的机会"
+  default_prompt: "使用 $sungemode-scout，给我的项目想法开图，比较客户、竞品、渠道与成本，并标明待验证假设。"

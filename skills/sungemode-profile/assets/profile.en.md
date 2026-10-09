@@ -1,0 +1,34 @@
+# Personal profile
+
+Updated: pending
+Source: self-report / supplied material / unconfirmed
+
+## Goals
+
+- Active goal, time horizon, observable result: pending
+- Directions of interest and exclusions: pending
+
+## Capabilities and resources
+
+| Item | Baseline | Proof/source | Open question |
+|---|---|---|---|
+| Skills and work samples | pending | pending | pending |
+| Reachable customers/channels | pending | pending | pending |
+| Available assets | pending | pending | pending |
+
+## Constraints
+
+- Weekly available time and schedule: unknown
+- Spending cap and currency: unknown
+- Delivery, employment, location, or other constraints: pending
+
+## Unknowns and next step
+
+Most decision-relevant question: pending
+Suggested exploration/test and rationale: pending
+
+## Change history
+
+| Date | Previous value | New value | Evidence and impact |
+|---|---|---|---|
+

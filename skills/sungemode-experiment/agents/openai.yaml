@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙哥模式 · 行动实验"
+  short_description: "把关键假设变成有时间预算、主要指标和预设停止条件的七天实验计划"
+  default_prompt: "使用 $sungemode-experiment，把我的关键假设设计成符合时间和预算的七天实验，写明指标及停止条件。"
