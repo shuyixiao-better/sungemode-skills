@@ -16,6 +16,8 @@ Seven interview-inspired themes for work, wealth, health, learning, choices, rel
 
 Independently organized and developed by the creator; an unofficial project.
 
+X / Twitter: [@xiao_yi76771](https://x.com/xiao_yi76771) · [@ziguai20](https://x.com/ziguai20)
+
 </div>
 
 Plan across beliefs, decisions, AI learning, business, wealth, health, and life experiences with evidence and shared time/spending limits. Use a whole-life baseline, a specific question, or a periodic review. Existing startup, side-business, and seven-day validation workflows remain available. Portable Markdown records let another agent continue.
@@ -164,5 +166,9 @@ python3 -m unittest discover -s tests -v
 Checks cover both entry languages, metadata, relative resources, language selection, repeat installs, and conflict protection. GitHub Actions defines macOS/Linux/Windows checks on Python 3.9/3.13; remote results depend on actual CI execution. Evaluate skill decisions using [the evaluation guide](evals/README.en.md); structural checks do not prove model performance.
 
 Evaluate practical benefit against direct prompting using the [paired evaluation protocol](evals/comparison.en.md) with matched models/scenarios. The paired comparison is not yet executed; demos and structural tests do not establish effectiveness.
+
+## Connect and share
+
+If SungeMode helps you, star the project or share your use cases, practice notes, and suggestions on X / Twitter. Follow [@xiao_yi76771](https://x.com/xiao_yi76771) and [@ziguai20](https://x.com/ziguai20), and feel free to tag either account when sharing how you turn ideas from the interview into concrete actions.
 
 Contributions are welcome: see [the contribution guide](CONTRIBUTING.en.md). Code and original documentation use the [MIT License](LICENSE); interview and third-party content retain their owners' rights.

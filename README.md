@@ -16,6 +16,8 @@
 
 创作者独立整理与开发，非官方项目
 
+X / Twitter：[@xiao_yi76771](https://x.com/xiao_yi76771) · [@ziguai20](https://x.com/ziguai20)
+
 </div>
 
 结合你的处境，梳理认知、决策、AI 学习、商业、财富、健康与人生体验，给出有依据、符合时间与预算上限的下一步。既可以全面盘点，也可以只解决一个问题，或根据已有记录复盘。原来的创业、副业和七天验证流程继续保留；Markdown 记录让不同 Agent 接着做。
@@ -187,5 +189,9 @@ python3 -m unittest discover -s tests -v
 检查覆盖中英文入口、元数据、相对资源链接、安装语言、重复安装与冲突保护。GitHub Actions 配置了 macOS/Linux/Windows、Python 3.9/3.13 的检查矩阵；远程 CI 状态以实际运行结果为准。Skill 的决策表现按 [评估说明](evals/README.md) 验证，结构检查不能替代实际使用。
 
 是否比直接问 AI 更有帮助，按 [配对评估协议](evals/comparison.md) 用相同模型与情境比较实际输出。对比尚未执行，不把演示或结构测试称为效果证明。
+
+## 交流与分享
+
+如果孙哥模式对你有帮助，欢迎给项目点个 Star，或在 X / Twitter 分享你的使用场景、实践记录和改进建议。可以关注 [@xiao_yi76771](https://x.com/xiao_yi76771) 和 [@ziguai20](https://x.com/ziguai20)，分享时也欢迎 @ 这两个账号，一起交流如何把访谈里的启发变成具体行动。
 
 欢迎贡献新的证据规则、实际案例或工具适配。请先读 [贡献指南](CONTRIBUTING.md)。项目代码和原创文档使用 [MIT License](LICENSE)；公开访谈及第三方内容的权利属于其原作者。
