@@ -16,3 +16,9 @@ Choose one learning or information task tied to the goal. Record context, source
 Separate factual disputes and preferences before verification. Cross-model checks are optional and do not require purchases or automatic API calls. Use necessary summaries of sensitive material; saving and uploading have separate authorization requirements.
 
 Deliver context, learning goal, artifact/test, sources, and pending checks. Long-term records can help but are not prerequisites for starting.
+
+## AI in practice: one record that improves the next decision
+
+Start with a recurring problem such as inability to apply learning or loss of context across tools. Create minimal context: goal, situation, limits, sources, previous judgment, feedback. Use it for one task, inspect which information changed the advice, and remove irrelevant fields.
+
+For learning: attempt an explanation/task, expose gaps, verify/practice, then test with a different problem. No artifact means no claim of mastery. Notes and practice count toward time. Compare models only when disagreement matters, preserving actual answers and evidence.

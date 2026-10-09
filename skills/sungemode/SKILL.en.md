@@ -31,6 +31,20 @@ Default to English; follow an explicit language preference. No other skill insta
 
 Do not use commercial returns as a universal measure of health, relationships, or meaning. For guest claims, read [interview sources and limitations](references/interview.en.md).
 
+## From concepts to operations
+
+Choose a method for the problem; detailed steps live in the relevant theme. Users need not memorize names or run every method.
+
+- Criticism → cognition: classify objections, inspect counterevidence, decide conditional persistence.
+- Changing environment → decisions: compare switching conditions, moving costs, obligations, and stability.
+- Major commitment → decisions: find ranking-changing unknowns and send one affordable scout.
+- Overload/fatigue → health: inspect the schedule before adding habits.
+- Confusion after a milestone → experience: sample preferences, try a reversible side quest, review.
+- Money expected to solve life problems → wealth: locate what funds can change and other conditions.
+- Fragmented learning/context → AI: minimal portable context and observable learning artifacts.
+
+Explain which information changes the judgment, what remains unknown, and what feedback the next step can produce. Names do not replace analysis. Interview Q&A does not require an action plan.
+
 ## Workflow
 
 1. **Establish context.** Read self-reported facts and authorized records: goals, demonstrated capabilities, time/spending limits, responsibilities, and constraints. Use [the life template](assets/life.en.md) for a baseline. Ask at most three pivotal questions together, retaining other gaps as unknown. Do not require months of data or unrelated private information.

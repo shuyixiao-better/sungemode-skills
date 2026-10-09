@@ -14,13 +14,27 @@ Seven interview-inspired themes for work, wealth, health, learning, choices, rel
 
 **Review your context → Make tradeoffs → Act within limits → Update from feedback**
 
-Built by Owen
+Independently organized and developed by the creator; an unofficial project.
 
 </div>
 
 Plan across beliefs, decisions, AI learning, business, wealth, health, and life experiences with evidence and shared time/spending limits. Use a whole-life baseline, a specific question, or a periodic review. Existing startup, side-business, and seven-day validation workflows remain available. Portable Markdown records let another agent continue.
 
-Independently developed by Owen, inspired by Alan Shao's public interview with Justin Sun. This is an unofficial project. Interview ideas, our product design, and market claims requiring verification are distinguished in [sources and methodology](docs/sources.en.md).
+Inspired by Alan Shao's public interview with Justin Sun. Interview ideas, our product design, and market claims requiring verification are distinguished in [sources and methodology](docs/sources.en.md).
+
+## Ideas behind the project
+
+SungeMode turns seven interview-inspired ideas into methods for personal choices, action, and review:
+
+- **Scout the map:** Understand options and critical unknowns before acting blindly.
+- **AI:** Expand information-processing capacity for organizing context, comparing paths, and learning.
+- **Independent judgment (“黄毛理论”):** Distinguish useful criticism from unhelpful social pressure, preserving judgments with evidence.
+- **Follow opportunities (“逐水草而居”):** Keep room to change direction as conditions change, accounting for stability and moving costs.
+- **Health management:** Protect the body and recovery so long-term action remains sustainable.
+- **Financial freedom:** Expand personal choice so time and everyday decisions can better reflect one's priorities.
+- **Experience:** Accept that the whole world cannot be understood in advance; learn about oneself and the world through experience and feedback.
+
+Apply these ideas to a whole-life baseline, career/project choices, learning, routines, financial goals, relationships, and creation. The skill translates them into concrete questions, affordable next steps, and review conditions; users need not master the terminology first.
 
 ## Try a prompt
 
@@ -54,6 +68,20 @@ See the [life baseline demo](examples/life-baseline.en.md), [Chinese equivalent]
 - **Periodic review:** Update the next steps from actual records.
 
 Interview Q&A is also supported. The skill distinguishes personal accounts and universal facts, does not impersonate the guest, equate opposition with truth, or copy his Crypto allocation/health practices. Source notes and limitations are packaged with the main skill for offline reading.
+
+## How the methods change decisions
+
+| Situation | Method | Result |
+|---|---|---|
+| Persisting despite criticism | Independent judgment | Separate emotion, testable objections, responsibility conflicts; conditional persistence |
+| Fragmented learning/context | AI in practice | Minimal portable context and observable learning artifacts |
+| Changing environment | Follow opportunities | Compare switching conditions, costs, responsibilities, and stability |
+| Career/location/project commitment | Scout first | Investigate a ranking-changing unknown before the next commitment |
+| Good income but overload | Body maintenance | Inspect routine/recovery conflicts and reduce tasks rather than keep adding |
+| After a wealth milestone | Player mindset | Sample preferences, try a reversible side quest, reflect before deepening |
+| More money expected to fix life | Wealth as an amplifier | Locate money-sensitive parts and other necessary agreements/actions |
+
+Names correspond to questions, choices, and feedback. Users need not study the interview first; detailed methods ship with the skill and all seven themes remain covered.
 
 ## Five standalone skills
 
@@ -134,5 +162,7 @@ python3 -m unittest discover -s tests -v
 ```
 
 Checks cover both entry languages, metadata, relative resources, language selection, repeat installs, and conflict protection. GitHub Actions defines macOS/Linux/Windows checks on Python 3.9/3.13; remote results depend on actual CI execution. Evaluate skill decisions using [the evaluation guide](evals/README.en.md); structural checks do not prove model performance.
+
+Evaluate practical benefit against direct prompting using the [paired evaluation protocol](evals/comparison.en.md) with matched models/scenarios. The paired comparison is not yet executed; demos and structural tests do not establish effectiveness.
 
 Contributions are welcome: see [the contribution guide](CONTRIBUTING.en.md). Code and original documentation use the [MIT License](LICENSE); interview and third-party content retain their owners' rights.

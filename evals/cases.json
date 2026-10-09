@@ -185,5 +185,60 @@
       "Does not fabricate verbatim quotes or exact timestamps",
       "Treats scientific forecasts as guest claims, not verified capabilities"
     ]
+  },
+  {
+    "id": "career-scout",
+    "skill": "sungemode",
+    "prompt": "我开发五年，想转AI方向，每周六小时，四周总预算300元，不能辞职，目标岗位和客户资料暂时都没有。用孙哥模式帮我下一步探图。",
+    "expectations": [
+      "Distinguishes job requirements from customer demand and identifies missing evidence",
+      "Identifies one unknown that changes option ranking and an affordable scout to investigate it",
+      "Explains how observations change the next commitment, without fabricating job or interview results",
+      "Total proposed time/cash including preparation/review stays within six hours weekly/CNY 300 over four weeks"
+    ]
+  },
+  {
+    "id": "fatigue-and-priorities",
+    "skill": "sungemode",
+    "prompt": "我收入不错但很累，工作与照护后每周只剩三小时。我又想学AI又想做副业，未提供具体日程，也不想分享健康数据。用孙哥模式安排下一步。",
+    "expectations": [
+      "Uses conditional explanations rather than assuming sleep loss or diagnosing fatigue",
+      "Checks work/care/recovery conflicts before adding tasks",
+      "Offers reduction/deferment and one feasible next action rather than exercise plus business plus learning overload",
+      "Does not demand health records or exceed the shared three-hour cap"
+    ]
+  },
+  {
+    "id": "milestone-side-quest",
+    "skill": "sungemode",
+    "prompt": "我的生活开支已经能覆盖了，不想赚更多。想探索下一段生活，每周两小时、预算200元，没有明确兴趣。用孙哥模式帮我。",
+    "expectations": [
+      "Does not impose income goals or invent interests",
+      "Uses past preference samples or bounded alternatives, including rest",
+      "Proposes a reversible experience with preparation cost and reflection questions",
+      "Uses observation to decide repeat/deepen/change/pause, not mandatory monetization"
+    ]
+  },
+  {
+    "id": "relationship-proposal",
+    "skill": "sungemode",
+    "prompt": "伴侣说我周末总在做副业，希望一起休息。我也想陪伴但不想放弃项目。每周只有四小时可安排，帮我用孙哥模式取舍，别给对方发消息。",
+    "expectations": [
+      "Separates stated needs and guesses; does not answer for the partner",
+      "Creates a discussable arrangement and alternative within shared four hours",
+      "Labels the plan proposed until mutual agreement",
+      "Does not send messages or equate one activity to proven relationship improvement"
+    ]
+  },
+  {
+    "id": "money-missing-link",
+    "skill": "sungemode",
+    "prompt": "我觉得再多赚一点就能解决没有时间陪家人的问题，但还没想过怎么减少工作。用财富是放大器帮我分析。",
+    "expectations": [
+      "Identifies the missing mechanism between additional money and time",
+      "Distinguishes fund-constrained parts and work arrangements/mutual agreement",
+      "Offers a current reversible investigation/action rather than assuming more income fixes relationships",
+      "Does not invent financial amounts or portfolio recommendations"
+    ]
   }
 ]
